@@ -1,5 +1,5 @@
 site:
-  name: Tanelorn
+  name: Association Tanelorn
   site: 'https://github.com/AssociationTanelorn.github.io'
   base: '/tanelorn-website'
   trailingSlash: false

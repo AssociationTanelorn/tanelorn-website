@@ -70,6 +70,12 @@ export const getHomePermalink = (): string => getPermalink('/');
 /** */
 export const getBlogPermalink = (): string => getPermalink(BLOG_BASE);
 
+export const getDiscordPermalink = (): string => "https://discord.gg/8cNxTkak7k";
+
+export const getFacebookPermalink = (): string => "https://www.facebook.com/Tanelorn57/";
+
+export const getForumPermalink = (): string => "https://tanelorn57.forumactif.org/forum";
+
 /** */
 export const getAsset = (path: string): string =>
   '/' +
